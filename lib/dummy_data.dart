@@ -1,7 +1,7 @@
 final List<String> allSupplies = [
   '10 Blade',
   '11 Blade',
-  '15 Blade',
+  '15 Bladee',
   '3DMax Light Mesh, Left, Medium, 3.1" x 5.3"',
   '3DMax Light Mesh, Left, Size L, 4.1" x 6.2"',
   '3DMax Light Mesh, Left, Size XL, 4.8" x 6.7"',
